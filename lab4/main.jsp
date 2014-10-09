@@ -8,7 +8,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 	 <br>
   <table width="200" border="0" align="center" height="100">
     <tr>
-      <td colspan="6"><strong>查询作者</strong></td>
+      <td colspan="6"><strong>查询</strong></td>
     </tr>
     <tr>
       <td align="left" width="200"> <form  name="form" method="post" action="querybook"> 

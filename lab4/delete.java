@@ -25,6 +25,7 @@ public class delete extends HttpServlet {
 			throws ServletException, IOException {
 
 		String url = "delete.jsp";
+		char a=0;
 		String bookname=request.getParameter("title");
 		response.setContentType("text/html");
 		response.setCharacterEncoding("UTF-8");

@@ -11,7 +11,7 @@ public class author {//≥ı ºªØ
 			age = null;
 			country = null;
 		}
-		
+		int i=1;
 		public author(String authorid,String name,String age,String country){
 			this.authorid=authorid;
 			this.name=name;
